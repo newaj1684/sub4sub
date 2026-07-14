@@ -6,19 +6,17 @@
 </head>
 <body>
 
-    <!-- આ વિડીયો vtype=1 (HelperHomeActivity) માટે છે -->
     <div class="thumb-block">
-        <a href="https://raw.githubusercontent.com/newaj1684/sub4sub/refs/heads/main/play1.html" title="Big Buck Bunny 1">
+        <a href="https://raw.githubusercontent.com/newaj1684/sub4sub/refs/heads/main/play1.html" title="Video One">
             <img data-src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg" />
         </a>
     </div>
 
-    <!-- આ વિડીયો vtype=2 (HamsterMainActivity) માટે છે -->
     <div class="thumb-list__item">
-        <a class="video-thumb__image-container" href="https://raw.githubusercontent.com/newaj1684/sub4sub/refs/heads/main/play.html">
+        <a class="video-thumb__image-container" href="https://raw.githubusercontent.com/newaj1684/sub4sub/refs/heads/main/play1.html">
             <img class="thumb-image-container__image" src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg" />
         </a>
-        <a class="video-thumb-info__name" title="Big Buck Bunny 2" href="#"></a>
+        <a class="video-thumb-info__name" title="Video Two" href="#"></a>
     </div>
 
 </body>
