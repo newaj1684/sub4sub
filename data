@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="gu">
+<head>
+    <meta charset="UTF-8">
+    <title>Video List</title>
+</head>
+<body>
+
+    <!-- વિડીયો ૧ -->
+    <div class="thumb-block">
+        <!-- href માં પ્લેયર પેજની લિંક આપો (જે સ્ટેપ ૨ માં બનાવશો) -->
+        <a href=" https://v3.cdnde.com/x3/upload_9a87efcdca11316668f3f991d2baf7c6/36536/36536_480p.mp4" title="વિડીયો ૧ નું નામ અહીં લખો">
+            <img data-src="https://ic-vt-nss.xhpingcdn.com/a/NzZjZDJmMzcxNDRkZDVkOGM1ZDVhNjVjNTA1YTc5ZmU/s(w:526,h:298),webp/029/928/177/1280x720.17831242.jpg" alt="thumbnail" />
+        </a>
+    </div>
+
+    <!-- વિડીયો ૨ -->
+    <div class="thumb-block">
+        <a href=" https://v3.cdnde.com/x3/upload_9a87efcdca11316668f3f991d2baf7c6/36536/36536_480p.mp4" title="વિડીયો ૨ નું નામ અહીં લખો">
+            <img data-src="https://ic-vt-nss.xhpingcdn.com/a/NzZjZDJmMzcxNDRkZDVkOGM1ZDVhNjVjNTA1YTc5ZmU/s(w:526,h:298),webp/029/928/177/1280x720.17831242.jpg" alt="thumbnail" />
+        </a>
+    </div>
+
+</body>
+</html>
